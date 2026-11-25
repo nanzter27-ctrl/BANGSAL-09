@@ -1,2 +1,20 @@
-# BANGSAL-09
-BANGSAL 09 adalah game horor survival 3D first-person berlatar bangsal isolasi rumah sakit terbengkalai.jelajahi lorong gelap untuk menemukan 4 sekring listrik demi membuka gerbang keluar,kelola beterai senter,dan bersembunyi di loker atau menunduk senyap untuk menghindari kejaran bayangan bangsal -- mendukung kontrol keyboard/mouse &amp; handphone
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
+</div>
+
+# Run and deploy your AI Studio app
+
+This contains everything you need to run your app locally.
+
+View your app in AI Studio: https://ai.studio/apps/ecb57d48-e5d8-40ee-b905-1a47caf620a6
+
+## Run Locally
+
+**Prerequisites:**  Node.js
+
+
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`
